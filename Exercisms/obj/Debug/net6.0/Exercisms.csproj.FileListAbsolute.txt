@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\bin\Debug\net6.0\Exercisms.exe
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\bin\Debug\net6.0\Exercisms.deps.json
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\bin\Debug\net6.0\Exercisms.runtimeconfig.json
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\bin\Debug\net6.0\Exercisms.dll
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\bin\Debug\net6.0\Exercisms.pdb
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.dll
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\refint\Exercisms.dll
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.pdb
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\Exercisms.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\Projects\Exercisms\Exercisms\obj\Debug\net6.0\ref\Exercisms.dll
